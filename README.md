@@ -10,16 +10,20 @@ The capstone project titled "Indian Air Quality Data Analysis and Prediction" ex
 This project consists of four main files:
 
 
-# analysis.ipynb: A Jupyter notebook dedicated to data analysis.
+# analysis.ipynb:
+A Jupyter notebook dedicated to data analysis.
 
 
-# linear_regressor_new.ipynb: A Jupyter notebook implementing linear regression for predictive modeling.
+# linear_regressor_new.ipynb: 
+A Jupyter notebook implementing linear regression for predictive modeling.
 
 
-# deployment.py: A Streamlit application for user interaction and expected season-based air quality predictions. (we are not taking into consideration year frames, we are just analysing the trend and anomalies for a 12 months variation in air quality but taking the data of nearly 25 years).
+# deployment.py: 
+A Streamlit application for user interaction and expected season-based air quality predictions. (we are not taking into consideration year frames, we are just analysing the trend and anomalies for a 12 months variation in air quality but taking the data of nearly 25 years).
 For running the app cmd: streamlit run app/deployment.py
 
-# K-Clustering.ipynb: A notebook focusing on clustering the data using K-means and DBSCAN algorithms.
+# K-Clustering.ipynb: 
+A notebook focusing on clustering the data using K-means and DBSCAN algorithms.
 
 
 
